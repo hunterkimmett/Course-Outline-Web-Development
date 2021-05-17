@@ -1,0 +1,3 @@
+Django server super user:
+	U: admin
+	P: admin
